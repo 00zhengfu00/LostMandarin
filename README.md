@@ -1,15 +1,7 @@
 ## lostmandarin
 
-i have a plan. 我只是在寒潮吐口包子尽力踹掉倒车罢了...
-
-
-### 手撕？文具？虚伪的雷锋
 
 百乐 p500 v5、国誉 rockbook & anki笔
-
-
-
-### 落魄膜法师卷轴打开方式
 
 * 《word by word》
 * 《english picture through book》 （英音）晨读+理解
