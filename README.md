@@ -1,6 +1,6 @@
-### lostmandarin
+## lostmandarin
 
-i have a plan...
+i have a plan. 我只是在寒潮吐口包子尽力踹掉倒车罢了...
 
 ### 落魄膜法师卷轴打开方式
 
