@@ -1,4 +1,21 @@
+### lostmandarin
+
+i have a plan...
+
 ### 
+
+《word by word》
+《english picture through book》 （英音）晨读+理解
+《oxford opd》（第三版暂无音频）
+
+《赖世雄美式音标》 晨读（主美式）
+
+《my phonics》 晚上听写
+
+《english ice break》 随意重复写
+
+
+
 
 
 
