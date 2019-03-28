@@ -10,7 +10,7 @@
 * 《my phonics》 晚上听写
 * 《english ice break》 随意重复写
 
-
+日记格式 Friday Feb.15th 2006 sunny 
 
 
 
