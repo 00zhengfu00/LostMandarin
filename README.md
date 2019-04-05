@@ -18,6 +18,11 @@
 
 * [找工作黑名单以及经验](https://github.com/shengxinjing/programmer-job-blacklist)
 
+### 暗黑♂
+
+* [致北大师生与北大外国语学院的一封公开信](https://github.com/sikaozhe1997/Xin-Yue)
+* [996ICU](https://github.com/996icu/996.ICU)
+
 ### 致谢
 
 <a href="https://github.com/OCNYang">
