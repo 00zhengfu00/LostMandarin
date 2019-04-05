@@ -70,8 +70,8 @@
     <img src="https://avatars3.githubusercontent.com/u/16145783?s=400&v=4" width="50px">
 </a>
 
-<a href="https://github.com/shengxinjing">
-    <img src="https://avatars0.githubusercontent.com/u/1905176?s=400&v=4" width="50px">
+<a href="https://github.com/ZGWS88">
+    <img src="https://avatars1.githubusercontent.com/u/8995393?s=400&v=4" width="50px">
 </a>
 
 <a href="https://github.com/dimonwei">
