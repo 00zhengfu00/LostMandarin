@@ -9,5 +9,5 @@
 
 `Ctrl + F` 进行搜索
 
-[培训机构索引1](https://github.com/ZGWS88/TI/blob/master/List.txt)
-[培训机构索引2](https://github.com/dimonwei/ItTrainingInstitutions/blob/master/FIT.json)
+* [培训机构索引1](https://github.com/ZGWS88/TI/blob/master/List.txt)
+* [培训机构索引2](https://github.com/dimonwei/ItTrainingInstitutions/blob/master/FIT.json)
