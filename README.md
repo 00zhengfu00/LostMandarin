@@ -12,8 +12,12 @@
 
 ### 快速概览培训机构招生运作流程
 
-建议使用vscode打开[培训机构招生流程图](https://github.com/loremwalker/LostMandarin/blob/master/uml/%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E6%8B%9B%E7%94%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.wsd)，方便观看，[关于打开.wsd流程图步骤](https://github.com/loremwalker/LostMandarin/blob/master/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)；答疑，[打开 培训机构x问？.mind 方式](https://github.com/loremwalker/LostMandarin/blob/master/q&a/%E6%89%93%E5%BC%80%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84x%E9%97%AE%EF%BC%9F.mymind%E6%96%B9%E5%BC%8F.md)
+建议使用vscode打开[培训机构招生流程图](https://github.com/loremwalker/LostMandarin/blob/master/uml/%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E6%8B%9B%E7%94%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.wsd)，方便观看，[关于打开.wsd流程图步骤](https://github.com/loremwalker/LostMandarin/blob/master/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
 ![](https://i.postimg.cc/rpmHkMLr/2019-04-05-233908.png)
+
+答疑，[打开 培训机构x问？.mind 方式](https://github.com/loremwalker/LostMandarin/blob/master/q&a/%E6%89%93%E5%BC%80%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84x%E9%97%AE%EF%BC%9F.mymind%E6%96%B9%E5%BC%8F.md)
+![](https://i.postimg.cc/28Pg5X43/Snipaste-2019-04-06-03-52-27.png)
+
 
 多数培训公司大球吐小球地滚雪球，明知已恶名昭彰但可以换个名称伪装成外包等之类的公司重复此流程继续拉人头，美其名曰：人才与技术外包；疯狂吸血多数还用的是盗版，甚至换个logo图成自己的软件，啧啧啧。
 
