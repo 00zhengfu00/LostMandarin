@@ -39,6 +39,7 @@
 * [996ICU](https://github.com/996icu/996.ICU)
 
 ### 致谢
+感谢各位贡献相关经验以及提供数据库。
 
 <a href="https://github.com/OCNYang">
     <img src="https://avatars3.githubusercontent.com/u/17774386?s=400&v=4" width="50px">
