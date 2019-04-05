@@ -35,7 +35,7 @@
 * [找工作黑名单以及经验](https://github.com/shengxinjing/programmer-job-blacklist)
 * [聊聊国内的培训](https://byoungd.gitbook.io/english-level-up-tips/part-ii/x-misc)
 
-### 哲学系
+### 社会哲学
 
 * [致北大师生与北大外国语学院的一封公开信](https://github.com/sikaozhe1997/Xin-Yue)
 * [996ICU](https://github.com/996icu/996.ICU)
