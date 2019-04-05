@@ -12,6 +12,10 @@
 * [培训机构索引1](https://github.com/ZGWS88/TI/blob/master/List.txt)
 * [培训机构索引2](https://github.com/dimonwei/ItTrainingInstitutions/blob/master/FIT.json)
 
+### 找工作黑名单以及经验repo
+
+* [test](https://github.com/shengxinjing/programmer-job-blacklist)
+
 ### 致谢
 
 <a href="https://github.com/OCNYang">
@@ -24,6 +28,10 @@
 
 <a href="https://github.com/dimonwei">
     <img src="https://avatars1.githubusercontent.com/u/10898084?s=400&v=4" width="50px">
+</a>
+
+<a href="https://github.com/shengxinjing">
+    <img src="https://avatars0.githubusercontent.com/u/1905176?s=400&v=4" width="50px">
 </a>
 
 <a href="https://github.com/loremwalker">
