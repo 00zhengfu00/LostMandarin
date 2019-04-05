@@ -14,7 +14,7 @@
 
 ### 找工作黑名单以及经验repo
 
-* [test](https://github.com/shengxinjing/programmer-job-blacklist)
+* [找工作黑名单以及经验](https://github.com/shengxinjing/programmer-job-blacklist)
 
 ### 致谢
 
