@@ -31,7 +31,7 @@
 ### 找工作黑名单以及经验repo
 
 * [找工作黑名单以及经验](https://github.com/shengxinjing/programmer-job-blacklist)
-* [聊聊国内的IT培训](https://byoungd.gitbook.io/english-level-up-tips/part-ii/x-misc)
+* [聊聊国内的培训](https://byoungd.gitbook.io/english-level-up-tips/part-ii/x-misc)
 
 ### 暗黑♂系
 
