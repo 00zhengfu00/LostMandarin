@@ -23,7 +23,7 @@
 
 ### 高效查询培训机构数据库
 
-用已提供**REPO** `Ctrl + F` 进行搜索，多数培训机构也是有些最为显眼的关键词的，例如：教育、科技、智
+用已提供**REPO** `Ctrl + F` 进行搜索，多数培训机构也是有些最为显眼的关键词的，例如：教育、科技、创、智
 
 * [培训机构索引1](https://github.com/ZGWS88/TI/blob/master/List.txt)
 * [培训机构索引2](https://github.com/dimonwei/ItTrainingInstitutions/blob/master/FIT.json)
