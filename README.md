@@ -30,12 +30,14 @@
 * [培训机构索引1](https://github.com/ZGWS88/TI/blob/master/List.txt)
 * [培训机构索引2](https://github.com/dimonwei/ItTrainingInstitutions/blob/master/FIT.json)
 
+![](https://a.uchi.moe/trrqhb.gif)
+
 ### 找工作黑名单以及经验repo
 
 * [找工作黑名单以及经验](https://github.com/shengxinjing/programmer-job-blacklist)
 * [聊聊国内的培训](https://byoungd.gitbook.io/english-level-up-tips/part-ii/x-misc)
 
-![](https://a.uchi.moe/trrqhb.gif)
+
 
 ### 社会哲学
 
