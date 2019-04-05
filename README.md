@@ -15,11 +15,9 @@
 建议使用vscode打开[培训机构招生流程图](https://github.com/loremwalker/LostMandarin/blob/master/uml/%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E6%8B%9B%E7%94%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.wsd)，方便观看，[关于打开.wsd流程图方式](https://github.com/loremwalker/LostMandarin/blob/master/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)；答疑，[培训机构x问？](https://github.com/loremwalker/LostMandarin/blob/master/q&a/%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84x%E9%97%AE%EF%BC%9F.md)
 ![](https://i.postimg.cc/rpmHkMLr/2019-04-05-233908.png)
 
-<!--一下写培训机构的黑心-->
-
 多数培训公司大球吐小球地滚雪球，明知已恶名昭彰但可以换个名称伪装成外包等之类的公司重复此流程继续拉人头，美其名曰：人才与技术外包；疯狂吸血多数还用的是盗版，甚至换个logo图成自己的软件，啧啧啧。
 
-只是拿一个就业证明和补习功课实在没必要来培训机构，没必要花过万的冤枉钱补习功课来换个就业证明；看书比看视频以及完成所谓的脱产式培训效率要高得多。
+好不容易翻出来，又得防中介、传销、培训、诈骗，好累o(╥﹏╥)o
 
 ### 高效查询培训机构数据库
 
