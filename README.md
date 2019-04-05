@@ -19,7 +19,7 @@
 * [培训机构索引1](https://github.com/ZGWS88/TI/blob/master/List.txt)
 * [培训机构索引2](https://github.com/dimonwei/ItTrainingInstitutions/blob/master/FIT.json)
 
-### 培训机构 ***X*** 问？
+### 培训机构 ***X*** 问？（个人总结）
 
 为什么培训机构热衷于搞网络课堂教学呢？
 * 节省人力物力经费等，直播房间易于方便控制节奏，多一个网络赚钱的途径，当然做
