@@ -11,6 +11,4 @@
 ![](https://i.postimg.cc/6QhKbHcj/2019-04-05-225827.png)
 
 
-
-
-### 配置 java 环境变量
+### 安装vscode以及plantUML插件
