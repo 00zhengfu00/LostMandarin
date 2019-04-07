@@ -9,6 +9,7 @@
 * 题：GitHub、搜一下各类刷题都出来了，结合下知乎基本知道要选择哪个刷了...
 
 还是要比目前太过遍地走的学历要高一层的全日制才好安稳领工资，努力吧！对于我来说，***It’s no use having regrets.You can’t go back!***
+但愿[我的经历](https://loremwalker.github.io/note/2019/04-07/90761367.html)可以帮到其他人
 
 ### 快速概览培训机构招生运作流程
 
