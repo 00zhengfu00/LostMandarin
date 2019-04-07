@@ -10,6 +10,11 @@
 
 真是要比现今太过遍地走的学历要高一层的全日制才好安稳领工资，无论何时，努力吧！***It’s no use having regrets.You can’t go back!*** 
 但愿[我的经历](https://loremwalker.github.io/note/2019/04-07/90761367.html)可以帮到其他人。
+
+todo: 
+
+* [ ] 如何观测行业大众级从业现状
+
 ### 快速概览培训机构招生运作流程
 
 建议使用vscode打开[培训机构招生流程图](https://github.com/loremwalker/LostMandarin/blob/master/uml/%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E6%8B%9B%E7%94%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.wsd)，方便观看，[关于打开.wsd流程图步骤](https://github.com/loremwalker/LostMandarin/blob/master/tutorial/%E6%89%93%E5%BC%80.wsd%E6%B5%81%E7%A8%8B%E5%9B%BE%E6%AD%A5%E9%AA%A4%20.md)
