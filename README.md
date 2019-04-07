@@ -48,6 +48,7 @@ todo:
 
 * [致北大师生与北大外国语学院的一封公开信](https://github.com/sikaozhe1997/Xin-Yue)
 * [996ICU](https://github.com/996icu/996.ICU)
+* [955WLB](https://github.com/formulahendry/955.WLB)
 
 ### 致谢
 感谢各位贡献相关经验以及提供数据库。
