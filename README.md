@@ -15,6 +15,13 @@ todo:
 
 * [ ] 如何观测行业大众级从业现状
 
+
+### 应届毕业生找工作防骗指南
+
+[应届毕业生找工作防骗指南](https://github.com/loremwalker/LostMandarin/blob/master/mind/%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E6%89%BE%E5%B7%A5%E4%BD%9C%E9%98%B2%E9%AA%97%E6%89%8B%E6%AE%B5.md)
+![]()
+
+
 ### 快速概览培训机构招生运作流程
 
 建议使用vscode打开[培训机构招生流程图](https://github.com/loremwalker/LostMandarin/blob/master/uml/%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E6%8B%9B%E7%94%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.wsd)，方便观看，[关于打开.wsd流程图步骤](https://github.com/loremwalker/LostMandarin/blob/master/tutorial/%E6%89%93%E5%BC%80.wsd%E6%B5%81%E7%A8%8B%E5%9B%BE%E6%AD%A5%E9%AA%A4%20.md)
