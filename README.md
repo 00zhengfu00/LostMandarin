@@ -3,14 +3,6 @@
 ### 日常扯淡の人生經驗
 我觉得 ***GitHub*** 最好的一点，就是开源的分享与交流经验，相比于其他平台来说真的友好的多，不会太注重非亲非故个人物资利益上。相关项目的支持与鼓励也是 ***GitHub用户*** 给的，用到的软件或网站大部分也来自于此，这是真的非常非常好的平台。
 
-***FOR EXAMPLE：***
-* 书：o'reilly、ituring、manning等
-* 文章：博客园、相关的个人站点等
-* 题：GitHub、搜一下各类刷题都出来了，结合下知乎基本知道要选择哪个刷了...
-
-真是要比现今太过遍地走的学历要高一层的全日制才好安稳领工资，无论何时，努力吧！***It’s no use having regrets.You can’t go back!*** 
-但愿[我的经历](https://loremwalker.github.io/note/2019/04-07/90761367.html)可以帮到其他人。
-
 todo: 
 
 * [ ] 如何观测行业大众级从业现状
@@ -18,7 +10,7 @@ todo:
 
 ### 应届毕业生找工作防骗指南
 
-[应届毕业生找工作防骗指南](https://github.com/loremwalker/LostMandarin/blob/master/mind/%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E6%89%BE%E5%B7%A5%E4%BD%9C%E9%98%B2%E9%AA%97%E6%89%8B%E6%AE%B5.md)
+现今真是要比太过遍地走的学历要高一层的全日制才好安稳领工资，无论何时，努力吧！[应届毕业生找工作防骗指南](https://github.com/loremwalker/LostMandarin/blob/master/mind/%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E6%89%BE%E5%B7%A5%E4%BD%9C%E9%98%B2%E9%AA%97%E6%89%8B%E6%AE%B5.md)
 ![](https://a.uchi.moe/kmprxo.png)
 
 
