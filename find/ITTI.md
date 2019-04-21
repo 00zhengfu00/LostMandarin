@@ -2,9 +2,9 @@
 
 由于此类的性质皮包公司，更换名称实在过快，提供的数据作为参考较为合适。感谢各位贡献相关数据:
 
-* [ZGWS88](https://github.com/ZGWS88) ：[培训机构索引1](https://github.com/ZGWS88/TI/blob/master/List.txt)
+* [ZGWS88](https://github.com/ZGWS88) ：[List.txt](https://github.com/ZGWS88/TI/blob/master/List.txt)
 * [dimonwei](https://github.com/dimonwei)、 [OCNYang](https://github.com/OCNYang)：
-[培训机构索引2](https://github.com/dimonwei/ItTrainingInstitutions/blob/master/FIT.json)
+[FIT.json](https://github.com/dimonwei/ItTrainingInstitutions/blob/master/FIT.json)
 
 准确来说，其实应该是面试找工作的所有人，愿各位找工作能够避开这些坑人的公司，找到一份好的工作！
 
