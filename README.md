@@ -2,6 +2,7 @@
 
 ### 日常扯淡の人生經驗
 
+996看选择了，只给底薪2k-3k来块钱，还是得加班，要么就换地方工作，聚众抗议在天朝真是吃不了兜着走。这里有个955名单，可以参考一下。
 
 * [996ICU](https://github.com/996icu/996.ICU)
 * [955WLB](https://github.com/formulahendry/955.WLB)
