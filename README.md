@@ -1,7 +1,11 @@
 # ***lostmandarin***
 
 ### 日常扯淡の人生經驗
-我觉得 ***GitHub*** 最好的一点，就是开源的分享与交流经验，相比于其他平台来说真的友好的多，不会太注重非亲非故个人物资利益上。相关项目的支持与鼓励也是 ***GitHub用户*** 给的，用到的软件或网站大部分也来自于此，这是真的非常非常好的平台。
+
+* [找工作黑名单以及经验](https://github.com/shengxinjing/programmer-job-blacklist)
+* [聊聊国内的培训](https://byoungd.gitbook.io/english-level-up-tips/part-ii/x-misc)
+* [996ICU](https://github.com/996icu/996.ICU)
+* [955WLB](https://github.com/formulahendry/955.WLB)
 
 todo: 
 
@@ -36,18 +40,6 @@ todo:
 
 ![](https://a.uchi.moe/trrqhb.gif)
 
-### 找工作黑名单以及经验repo
-
-* [找工作黑名单以及经验](https://github.com/shengxinjing/programmer-job-blacklist)
-* [聊聊国内的培训](https://byoungd.gitbook.io/english-level-up-tips/part-ii/x-misc)
-
-
-
-### 社会哲学
-
-* [致北大师生与北大外国语学院的一封公开信](https://github.com/sikaozhe1997/Xin-Yue)
-* [996ICU](https://github.com/996icu/996.ICU)
-* [955WLB](https://github.com/formulahendry/955.WLB)
 
 ### 致谢
 感谢各位贡献相关经验以及提供数据库。
