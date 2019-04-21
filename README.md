@@ -10,7 +10,7 @@ todo:
 
 ### 应届毕业生找工作防骗指南
 
-现今真是要比太过遍地走的学历要高一层的全日制才好安稳领工资，无论何时，努力吧！[应届毕业生找工作防骗指南](https://github.com/loremwalker/LostMandarin/blob/master/mind/%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E6%89%BE%E5%B7%A5%E4%BD%9C%E9%98%B2%E9%AA%97%E6%89%8B%E6%AE%B5.md)
+现今真是要比太过遍地走的学历要高一层的全日制才好安稳领工资，[应届毕业生找工作防骗指南](https://github.com/loremwalker/LostMandarin/blob/master/mind/%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E6%89%BE%E5%B7%A5%E4%BD%9C%E9%98%B2%E9%AA%97%E6%89%8B%E6%AE%B5.md)
 ![](https://a.uchi.moe/kmprxo.png)
 
 
