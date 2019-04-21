@@ -6,6 +6,7 @@
 * [dimonwei](https://github.com/dimonwei)
 * [OCNYang](https://github.com/OCNYang)
 
+准确来说，其实应该是面试找工作的所有人，愿各位找工作能够避开这些坑人的公司，找到一份好的工作！
 
 ### 培训机构 
 
