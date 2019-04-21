@@ -36,7 +36,7 @@ todo:
 
 用已提供**REPO** `Ctrl + F` 进行搜索，多数培训机构也是有些最为显眼的关键词的，例如：教育、科技、创、智
 
-![](https://a.uchi.moe/trrqhb.gif)
+![](https://a.uchi.moe/cxqffg.gif)
 
 
 <!--
