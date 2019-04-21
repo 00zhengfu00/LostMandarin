@@ -1,6 +1,9 @@
 ### 说在前面
 
-由于此类的性质皮包公司，更换名称实在过快，提供的数据作为参考较为合适。
+由于此类的性质皮包公司，更换名称实在过快，提供的数据作为参考较为合适。感谢各位贡献相关经验以及提供数据库:
+* [ZGWS88](https://github.com/ZGWS88)
+* [dimonwei](https://github.com/dimonwei)
+* [OCNYang](https://github.com/OCNYang)
 
 ### 培训机构 
 
