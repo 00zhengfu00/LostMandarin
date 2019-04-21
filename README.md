@@ -41,34 +41,6 @@ todo:
 ![](https://a.uchi.moe/trrqhb.gif)
 
 
-### 致谢
-感谢各位贡献相关经验以及提供数据库。
-
-<a href="https://github.com/OCNYang">
-    <img src="https://avatars3.githubusercontent.com/u/17774386?s=400&v=4" width="50px">
-</a> 
-
-<a href="https://github.com/byoungd">
-    <img src="https://avatars3.githubusercontent.com/u/16145783?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/ZGWS88">
-    <img src="https://avatars1.githubusercontent.com/u/8995393?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/dimonwei">
-    <img src="https://avatars1.githubusercontent.com/u/10898084?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/shengxinjing">
-    <img src="https://avatars0.githubusercontent.com/u/1905176?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/loremwalker">
-    <img src="https://avatars1.githubusercontent.com/u/35732922?s=400&u=860437c0da02d577fdd546c8f3bfd305539c388f&v=4" width="50px">
-</a>
-
-
 <!--
 
 * [找工作黑名单以及经验](https://github.com/shengxinjing/programmer-job-blacklist)
