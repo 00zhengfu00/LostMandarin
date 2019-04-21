@@ -2,8 +2,7 @@
 
 ### 日常扯淡の人生經驗
 
-* [找工作黑名单以及经验](https://github.com/shengxinjing/programmer-job-blacklist)
-* [聊聊国内的培训](https://byoungd.gitbook.io/english-level-up-tips/part-ii/x-misc)
+
 * [996ICU](https://github.com/996icu/996.ICU)
 * [955WLB](https://github.com/formulahendry/955.WLB)
 
@@ -67,3 +66,11 @@ todo:
 <a href="https://github.com/loremwalker">
     <img src="https://avatars1.githubusercontent.com/u/35732922?s=400&u=860437c0da02d577fdd546c8f3bfd305539c388f&v=4" width="50px">
 </a>
+
+
+<!--
+
+* [找工作黑名单以及经验](https://github.com/shengxinjing/programmer-job-blacklist)
+* [聊聊国内的培训](https://byoungd.gitbook.io/english-level-up-tips/part-ii/x-misc)
+
+-->
