@@ -1,0 +1,85 @@
+@startuml
+
+skinparam handwritten true
+skinparam usecase {
+
+	BorderColor DarkSlateGray
+	ArrowColor Olive
+	ActorBorderColor black
+	ActorFontName Courier
+
+}
+
+usecase uc1 as "..了解行业整体发展史的过程..
+    1.近期及未来社会（科技发达度）与个人（就业）发展趋势
+    2.社会对从业人员需求度是否饱和（人才过剩）
+    3.穷尽各种办法收集资料
+    4.这行中存在几大不同主要类型企业的运营模式
+    （例如IT为例：培训、通信、互联网）
+    5.了解所感兴趣的行业的现状再决定选择"
+
+(相关专业考证、校招or面试、交流群) as obj1
+(1-3年间的行业从业情报) as obj2
+(网上查找院校相关教学专业一览表) as obj3
+(搜索或总结出行业产品产业链全景图) as obj4
+:学生: as student
+student -> uc1
+uc1 <|-- obj1
+uc1 <|-- obj2
+uc1 <|-- obj3
+uc1 <|-- obj4
+
+rectangle 此图可用vscode进行翻页详细查看{
+
+}
+
+note bottom of (obj3)
+进入天朝教育部高等教育司网站，站点内含有普通高等学校本科专业目录新旧专业对照表.
+end note
+
+newpage
+note right of (uc1)
+--穷尽各种办法收集资料--
+收集情报：
+* 一手
+    1. 面对面实际接触行业人士
+    2.GitHub
+* 二手
+    1.维基百科
+    2.企业信息数据库（例如天眼查等）
+
+知乎：如何着手分析一个行业？ 在回答里，网页查找下安晓辉的答案会有很好启发
+end note
+
+newpage
+note right of (obj1)
+    --入群目的--
+    * 考证群
+        1.通过他们考证了解行业证书难度、含金量
+        2.透过日常吹水，推测相关从业者的专业水平
+    * 校招or面试群
+        1.大致从业季度概览（仅供参考）
+            实习毕业季（大约5-7月）
+            跳槽季（3月-4月） 
+            安定季（年前8月-年后1-2月）
+        2.找好话题，以试探性交谈来获取相关学历专业应届生与新人的就业现状
+    * 交流群
+        1.了解经常群聊的从业者的工作氛围
+        2.通过校招面试群来对比交流或考证群的群聊画大饼方式
+    保持疑问；一股脑全信，容易被大叔级的老油条&搅屎棍拉入坑或被培训机构hr骗钱
+end note
+
+
+newpage
+note right of (obj4)
+--搜索或总结出行业产品产业链全景图--
+SWOT分析法：strength（优势）, weakness（劣势）, opportunity（机会）, threat（威胁）.
+PEST分析法：politics（政治）, economy（经济）, society（社会环境）, technology（技术环境）.
+进行总结的几个方面：
+* 生产的产品由谁买单？
+* 业务覆盖了哪些环节？
+* 这个行业的经济链条是如何运转起来的？
+* 产业薄弱环节是哪里，又靠什么弥补？
+end note
+
+@enduml
