@@ -24,19 +24,16 @@
 多数培训公司大球吐小球地滚雪球，明知已恶名昭彰但可以换个名称伪装成外包等之类的公司重复此流程继续拉人头，美其名曰：人才与技术外包；疯狂吸血多数还用的是盗版，甚至换个logo图成自己的软件，啧啧啧。
 
 
-
 ### 高效查询培训机构数据库
 
 用已提供**REPO** `Ctrl + F` 进行搜索，多数培训机构也是有些最为显眼的关键词的，例如：教育、科技、创、智
 
 [ITTI.md 培训机构查询](https://github.com/loremwalker/LostMandarin/blob/master/find/ITTI.md)
 
-![](https://a.uchi.moe/cxqffg.gif)
-
 
 <!--
 
 * [找工作黑名单以及经验](https://github.com/shengxinjing/programmer-job-blacklist)
 * [聊聊国内的培训](https://byoungd.gitbook.io/english-level-up-tips/part-ii/x-misc)
-
+![](https://a.uchi.moe/cxqffg.gif)
 -->
