@@ -20,12 +20,11 @@ todo:
 ![](https://a.uchi.moe/kmprxo.png)
 
 ### 如何观测行业大众级从业现状？
-建议使用vscode打开[着手分析行业现状用例图](https://github.com/loremwalker/LostMandarin/blob/master/uml/%E7%9D%80%E6%89%8B%E5%88%86%E6%9E%90%E8%A1%8C%E4%B8%9A%E7%8E%B0%E7%8A%B6%E7%94%A8%E4%BE%8B%E5%9B%BE.wsd)
+建议使用vscode打开[着手分析行业现状用例图](https://github.com/loremwalker/LostMandarin/blob/master/uml/%E7%9D%80%E6%89%8B%E5%88%86%E6%9E%90%E8%A1%8C%E4%B8%9A%E7%8E%B0%E7%8A%B6%E7%94%A8%E4%BE%8B%E5%9B%BE.wsd)，[关于打开plantuml（.wsd .gv等）步骤](https://loremwalker.github.io/note/2019/05-02/d9e05b9b.html)
 ![](https://a.uchi.moe/pmrhvj.png)
 
 ### 快速概览培训机构招生运作流程
 
-建议使用vscode打开[培训机构招生流程图](https://github.com/loremwalker/LostMandarin/blob/master/uml/%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E6%8B%9B%E7%94%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.wsd)，方便观看，[关于打开.wsd流程图步骤](https://github.com/loremwalker/LostMandarin/blob/master/tutorial/%E6%89%93%E5%BC%80.wsd%E6%B5%81%E7%A8%8B%E5%9B%BE%E6%AD%A5%E9%AA%A4%20.md)
 ![](https://i.postimg.cc/rpmHkMLr/2019-04-05-233908.png)
 
 答疑，[打开 培训机构x问？.mind 方式](https://github.com/loremwalker/LostMandarin/blob/master/tutorial/%E6%89%93%E5%BC%80%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84x%E9%97%AE%EF%BC%9F.mymind%E6%96%B9%E5%BC%8F.md)
