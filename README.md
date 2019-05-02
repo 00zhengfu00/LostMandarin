@@ -7,7 +7,7 @@
 to do
 
 * [ ] 培训机构对PUA的应用[pick up artist](https://zhuanlan.zhihu.com/p/47338944?utm_source=qq&utm_medium=social&utm_oi=57875284099072)
-
+* [ ] 爬虫
 
 ### 应届毕业生找工作防骗指南
 
